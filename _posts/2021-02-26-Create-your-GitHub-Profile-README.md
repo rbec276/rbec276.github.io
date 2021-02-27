@@ -14,6 +14,7 @@ This tutorial covers how to create a README&#46;md for your profile using the Gi
 2. [Sign in](https://github.com/login) to your account and create a new repository by clicking **New**.
 
     ![repo](../assets/new_repository.png)
+    ![repo](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/new_repository.png)
     <p align="center">
     <img src="/assets/github_assets/new_repository.png" alt="New Repository" width="600">
     </p>
