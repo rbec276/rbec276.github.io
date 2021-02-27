@@ -17,7 +17,7 @@ If you haven't installed Twitch Studio, see [Getting Started](Tutorial_Getting_S
 ![Twitch Studio main screen](/assets/twitch_studio_assets/main.png "Twitch Studio Main Screen") -->
 
 <p align="center">
-<img src="/assets/twitch_studio_assets/main.png" alt="Twitch Studio main screen" width="600">
+<img src="../assets/twitch_studio_assets/main.png" alt="Twitch Studio main screen" width="600">
 </p>
 
 After launching the app, you can start a live stream in 4 steps. 
