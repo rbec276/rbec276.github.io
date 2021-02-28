@@ -18,30 +18,36 @@ With Twitch Studio, you can customize and create new scenes. Scenes are visual t
 
 In the Scenes sidebar, you'll see a list of your scenes. Right click a scene name to quickly delete, duplicate, edit, or rename it. Click the plus icon at the bottom to add a new scene.You can also select a game, window, or screen to share by clicking Change Capture.
 
-<p align="center">
+![ui scenes](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_scenes.PNG)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_scenes.png" alt="Scenes sidebar" width="350">
-</p>
+</p> -->
 
 ## Stats Panel
 Notice the stats panel at the top of the screen. These metrics will help you monitor stream quality and performance. Check your frame rate, upload speed, and percent load on your CPU. You can also see how many viewers are currently watching your stream and the duration of your streaming session. Click the padlock icon to change what stats display in the panel and in what order. 
 
-<p align="center">
+![stats](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/stats.png)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/stats.png" alt="Stats panel" width="800">
-</p>
+</p> -->
 
 Next, let's cover the series of buttons to the right of the stats panel. 
 Use the Help button to report a bug, request a new feature, consult the FAQs, or even join the Twitch Studio Discord server to discuss all things Twitch Studio. 
 
 Click the Stars button to open the Twitch Studio news feed. New articles and tutorials will show up here.
-<p align="center">
+
+![UI news](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_news.PNG)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_news.png" alt="Newsfeed" width="500">
-</p>
+</p> -->
 
 
 Click your avatar to connect with your Twitch account. You can open your Twitch dashboard/stream manager, which actually looks quite similar to the Twitch Studio interface. If you prefer recording and uploading videos to streaming, click Video Producer. Here, you can select recorded video files to upload to Twitch.
-<p align="center">
+
+![UI avatar menu](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_avatar_menu.PNG)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_avatar_menu.png" alt="Avatar menu" width="200">
-</p>
+</p> -->
 
 <!-- 
 Avatar: 
@@ -54,43 +60,49 @@ The Activity Feed is where new notifications and alerts show up. Examples of not
 The difference between notifications and alerts is that notifications only show up in your Activity Feed. Alerts, on the other hand, can show up both in your Activity Feed and on your stream in the form of Twitch alerts.
 Click the 3 dots icon to toggle feed notifications and alerts on or off. 
 
-<p align="center">
+![UI activity feed](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_activity_feed.PNG)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_activity_feed.png" alt="Activity Feed" width="300">
-</p>
+</p> -->
 
 ## Chat
 Interact with your audience! In the chat window, you have the ability to read and send messages in real time. Click the cogwheel to open chat settings and enable moderation actions-- like emotes-only chat. 😉
 
-<p align="center">
+![UI chat](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_chat.png)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_chat.png" alt="Chat Window" width="300">
-</p>
+</p> -->
 
 ## Stream Preview
 Before you start streaming, check out your scenes and customizations in the Stream Preview window. You can also check while streaming to make sure your viewers are seeing everything you want them to see. 
 
-<p align="center">
+![UI stream preview](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_stream_preview.PNG)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_stream_preview.png" alt="Stream Preview" width="600">
-</p>
+</p> -->
 
 ## Stream info
 Click the pencil icon to add or edit the title, category, and tags for your stream. 
 
-<p align="center">
+![UI stream info](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_stream_info.PNG)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_stream_info.png" alt="Stream Info" width="600">
-</p>
+</p> -->
 
 ## Audio/Video Controls
 Toggle your webcam on and off with a single click. Use the slider tool to adjust the volume for each audio device. You can also click the mic and/or speaker icon to mute either device.
 
-<p align="center">
+![UI audio](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_audio.PNG)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_audio.png" alt="Audio/Video Buttons" width="600">
-</p>
+</p> -->
 
 ## General settings
 Click the cogwheel to open the General Settings menu. Here, you can add transitions, add or swap an audio device, adjust stream quality settings, and customize hotkeys.
 
-<p align="center">
+![UI settings](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_settings.PNG)
+<!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_settings.png" alt="General Settings" width="600">
-</p>
+</p> -->
 
 And that's about it! Now that you've been introduced to the Twitch Studio user interface, why not try some tutorials to put everything into practice? Enjoy!
