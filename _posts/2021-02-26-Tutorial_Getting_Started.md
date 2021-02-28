@@ -74,6 +74,6 @@ The first time you launch the app, you'll be prompted to set up your microphone,
 <!-- ## 
 Now that you're in the app, take a few minutes to explore the interface. You can also refer to the UI Reference doc. -->
 
-Once you're in the app, see the tutorial [How to set up live stream](/jekyll/twitchstudio/2021/02/26/How_to_set_up_livestream.html).
+Once you're in the app, see the tutorial [How to set up live stream](/jekyll/twitchstudio/2021/02/27/How_to_set_up_livestream.html).
 
 

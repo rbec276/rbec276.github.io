@@ -11,7 +11,7 @@ This tutorial covers how to set up your first live stream from the Twitch Studio
 
 ## Before you start
 
-If you haven't installed Twitch Studio, see [Getting Started](Tutorial_Getting_Started.md). 
+If you haven't installed Twitch Studio, see [Getting Started](_posts/2021-02-26-Tutorial_Getting_Started.md). 
 
 <!-- Overview of the Twitch Studio user interface.
 ![Twitch Studio main screen](/assets/twitch_studio_assets/main.png "Twitch Studio Main Screen") -->
