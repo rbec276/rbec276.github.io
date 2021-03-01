@@ -35,13 +35,17 @@ The first time you launch the app, you'll be prompted to set up your microphone,
 
 1. Click to get started.
 
-![Get Started](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/setup.PNG)
+<p align="center">
+<img src="../assets/Twitch_Studio_assets/setup.png" alt="Get started" width="450">
+</p>
 
 2. Set up microphone
 
     The app will detect a default microphone-- keep the default or click **Change mic** to view other options. Select the microphone you want to use and click **Continue to webcam**. 
 
-![Mic Setup](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/mic_setup.PNG)
+<p align="center">
+<img src="../assets/Twitch_Studio_assets/mic_setup.png" alt="Mic setup" width="300">
+</p>
 
 3. Set up webcam
     
@@ -49,7 +53,9 @@ The first time you launch the app, you'll be prompted to set up your microphone,
     
     >Note: If you were not asked to set up a webcam, Twitch Studio might not have permission to access your webcam. Skip for now and we can grant permission in the app. 
 
-![Webcam Setup](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/webcam_setup.PNG)
+<p align="center">
+<img src="../assets/Twitch_Studio_assets/webcam_setup.png" alt="Webcam setup" width="300">
+</p>
 
 4. View scenes
     
@@ -65,7 +71,9 @@ The first time you launch the app, you'll be prompted to set up your microphone,
 
     You don't need to finalize your scenes just yet. They can be fully customized in the app. Click Continue to Settings.
 
-![Scenes Setup](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/scenes_setup.PNG)
+<p align="center">
+<img src="../assets/Twitch_Studio_assets/scenes_setup.png" alt="Scenes setup" width="300">
+</p>
 
 <!-- You can modify your scenes using Twitch Studio's media library. Click Customize Scenes to start exploring them now. You can also do this in the app (recommended). Click Continue to settings.
     If you want to make changes now, click the Customize Scenes button. Otherwise, continue to settings.
@@ -78,7 +86,10 @@ The first time you launch the app, you'll be prompted to set up your microphone,
 
     > #### Note: Streaming can be demanding on your PC. If either the bandwidth test or the hardware check are "Poor", you can still continue to the app. Just know that your stream might be choppy.
 
-![Stream Quality Settings](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/stream_quality_settings.PNG)
+<p align="center">
+<img src="../assets/Twitch_Studio_assets/stream_quality_settings.png" alt="Stream quality settings" width="300">
+</p>
+
 <!-- ## 
 Now that you're in the app, take a few minutes to explore the interface. You can also refer to the UI Reference doc. -->
 
