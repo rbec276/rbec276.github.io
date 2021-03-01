@@ -7,21 +7,19 @@ categories: jekyll TwitchStudio
 
 <!-- # How to set up your live stream with Twitch Studio  -->
 
-This tutorial covers how to set up your first live stream from the Twitch Studio desktop app.
-
 ## Before you start
 
-If you haven't installed Twitch Studio, see [Getting Started](_posts/2021-02-26-Tutorial_Getting_Started.md). 
+If you haven't installed Twitch Studio, see [Installing Twitch Studio](/jekyll/twitchstudio/2021/02/27/Tutorial_Getting_Started.html). When you reach the app's main screen, proceed with the tutorial.
 
 <!-- Overview of the Twitch Studio user interface.
 ![Twitch Studio main screen](/assets/twitch_studio_assets/main.png "Twitch Studio Main Screen") -->
 
 ![Twitch Studio main screen](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/main.png)
+
 <!-- <p align="center">
 <img src="../assets/twitch_studio_assets/main.png" alt="Twitch Studio main screen" width="600">
 </p> -->
 
-After launching the app, you can start a live stream in 4 steps. 
 
 ## Step 1. Capture gameplay
 Open the game you want to stream. Return to the app and locate the Scenes panel. Under Main Screen Share, click **Change Capture**. 
@@ -33,7 +31,7 @@ Open the game you want to stream. Return to the app and locate the Scenes panel.
 <img src="/assets/twitch_studio_assets/scenes_panel.png" alt="Twitch Studio scenes panel" width="300">
 </p> -->
 
-In the new dialog, select your game window from the list of open applications. Click **Next**.
+In the new dialog, select your game window from the list of applications. Click **Next**.
 
 <!-- ![Primary screen share](/assets/twitch_studio_assets/primary_screen_share.png "Twitch Studio Primary Screen Share dialog")  -->
 
@@ -63,7 +61,7 @@ Click **Done**.
 <!-- >#### Note: Take one last moment to consult the Stream Preview window. What you see here is exactly how your stream will look to viewers.  -->
 
 ## Step 3. Customize scenes
-Click a scene name to display it in the Stream Preview window.
+Select a scene from the Scenes panel to display it in the Stream Preview window.
 
  <!-- As you make changes, consult the Stream Preview window to make sure everything looks the way you intended.  -->
 
@@ -86,7 +84,7 @@ In the editor, you can fully customize your scenes. Some functionality includes:
 
 - Adding alerts and deciding how they show up in your stream. 
 
-See [Customizing Scenes](Customizing_Scenes.md) for a complete tutorial on editing and creating new scenes.
+<!-- See Customizing scenes for a complete tutorial on editing and creating new scenes. -->
 
 When you're done making changes, click **Save** to return home.
 

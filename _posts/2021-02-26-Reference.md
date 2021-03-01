@@ -25,6 +25,7 @@ To share a game screen, select the Main scene and click Change Capture.
 ![ui scenes](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_scenes.PNG)
 
 > Note: To add screen capture to a scene, it must have a Screen Share layer. 
+
 <!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_scenes.png" alt="Scenes sidebar" width="350">
 </p> -->
@@ -118,4 +119,4 @@ Click the cogwheel to open the General Settings menu. Here, you can add transiti
 
 Now that you're familiar with the Twitch Studio user interface, why not try some tutorials? 
 
-[How to set up a livestream using Twitch Studio](2021-02-26-How_to_set_up_livestream.md)
+[How to set up a livestream using Twitch Studio](/jekyll/twitchstudio/2021/02/27/How_to_set_up_livestream.html)

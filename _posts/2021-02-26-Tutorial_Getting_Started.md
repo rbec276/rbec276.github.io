@@ -35,6 +35,8 @@ The first time you launch the app, you'll be prompted to set up your microphone,
 
 1. Click to get started.
 
+![Get Started](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/setup.PNG)
+
 2. Set up microphone
 
     The app will detect a default microphone-- keep the default or click **Change mic** to view other options. Select the microphone you want to use and click **Continue to webcam**. 
