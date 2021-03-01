@@ -24,7 +24,7 @@ To share a game screen, select the Main scene and click Change Capture.
 
 ![ui scenes](https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/UI_scenes.PNG)
 
-> Note: To share gameplay on your scene, you must include a Screen Share layer.
+> Note: To add screen capture to a scene, it must have a Screen Share layer. 
 <!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_scenes.png" alt="Scenes sidebar" width="350">
 </p> -->
@@ -74,7 +74,7 @@ Click the 3 dots icon to toggle feed notifications and alerts on or off.
 <img src="/assets/twitch_studio_assets/UI_activity_feed.png" alt="Activity Feed" width="300">
 </p> -->
 
-> Note: To share alerts on your scene, you must include a Twitch Alerts layer.
+> Note: To share alerts on a scene, it must have a Twitch Alerts layer.
 
 ## Chat
 Interact with your audience! In the chat window, you have the ability to read and send messages to your viewers in real time. Click the cogwheel to open chat settings and enable moderation actions-- like emotes-only chat 😮😮😮 or followers-only chat.
@@ -99,7 +99,6 @@ Click the pencil icon to add or edit the title, category, and tags for your stre
 <!-- <p align="center">
 <img src="/assets/twitch_studio_assets/UI_stream_info.png" alt="Stream Info" width="600">
 </p> -->
-> Note: Complete and accurate stream info helps make your content discoverable. 
 
 ## Audio/Video Controls
 Toggle your webcam on and off with a single click. Use the slider tool to adjust the volume on each audio device. You can also click the mic or speaker icon to mute the device.
