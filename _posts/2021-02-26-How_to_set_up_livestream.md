@@ -11,21 +11,30 @@ categories: jekyll TwitchStudio
 
 If you haven't installed Twitch Studio, see [Installing Twitch Studio](/jekyll/twitchstudio/2021/02/27/Tutorial_Getting_Started.html). When you reach the app's main screen, proceed with the tutorial.
 
-<p align="center">
+<!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/main.png" alt="Twitch Studio main screen" width="600">
+</p> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/main.png" alt="Twitch Studio main screen" width="600">
 </p>
 
 ## Step 1. Capture gameplay
 Open the game you want to stream. Return to the app and locate the Scenes panel. Under Main Screen Share, click **Change Capture**. 
 
-<p align="center">
+<!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/scenes_panel.png" alt="Twitch Studio scenes panel" width="300">
+</p> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/scenes_panel.PNG" alt="Twitch Studio scenes panel" width="300">
 </p>
 
 In the new dialog, select your game window from the list of applications. Click **Next**.
 
-<p align="center">
+<!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/game_screen.png" alt="Twitch Studio Primary Screen Share dialog" width="300">
+</p> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/game_screen.PNG" alt="Twitch Studio Primary Screen Share dialog" width="300">
 </p>
 
 <!-- ## Preview your stream
@@ -37,8 +46,11 @@ Give your stream a title, category, and one or more tags. You can also specify t
 <!-- Add more details to make your content searchable.  -->
 >#### Note: Complete and accurate stream info helps make your content discoverable.
 
-<p align="center">
+<!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/stream_info.png" alt="Twitch Studio stream info dialog" width="300">
+</p> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/stream%20info.png" alt="Twitch Studio stream info dialog" width="300">
 </p>
 
 Click **Done**.
@@ -50,8 +62,11 @@ Select a scene from the Scenes panel to display it in the Stream Preview window.
 
  <!-- As you make changes, consult the Stream Preview window to make sure everything looks the way you intended.  -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/stream_preview.png" alt="Twtich Studio stream preview" width="600">
+</p> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/stream_preview.PNG" alt="Twtich Studio stream preview" width="600">
 </p>
 
 If you want to make changes to the selected scene, click **Edit Scene**. 
@@ -70,8 +85,11 @@ In the editor, you can fully customize your scenes. Some functionality includes:
 
 When you're done making changes, click **Save** to return home.
 
-<p align="center">
+<!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/edit_scene.png" alt="Twitch Studio edit scene" width="600">
+</p> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/edit_scene.PNG" alt="Twitch Studio edit scene" width="600">
 </p>
 
 <!-- Continue customizing scenes until you're happy with how everything looks. -->
@@ -83,8 +101,11 @@ When you're done making changes, click **Save** to return home.
 ## Step 4. Start streaming
 You're ready to go live! Click **Start stream**. Monitor and manage your stream at any time from the app. To end your streaming session, click **Stop stream**. 
 
-<p align="center">
+<!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/start_stream.png" alt="Twitch Studio start stream" width="600">
+</p> -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/start_stream.PNG" alt="Twitch Studio start stream" width="600">
 </p>
 
 <!-- If you want to learn more about Twitch Studio, see our How-Tos:
