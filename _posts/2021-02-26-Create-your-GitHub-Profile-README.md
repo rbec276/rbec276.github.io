@@ -18,6 +18,8 @@ This tutorial describes how to create a README&#46;md for your GitHub profile us
     <p align="center">
     <img src="../assets/new_repository.png" alt="New Repository" width="600">
     </p>
+    <img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/new_repository.png" alt="New Repository" width="600">
+    </p>
 
 3. In the new window, take the following actions:
 
