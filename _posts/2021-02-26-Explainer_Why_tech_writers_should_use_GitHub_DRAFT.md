@@ -17,13 +17,11 @@ For more information on GitHub, take GitHub's [free introduction course](https:/
 
 ## Establish your presence in the developer community
 
-Because GitHub is ubiquitous to the software developer community, it makes sense to introduce yourself on the platform. The best way to do this is by creating a GitHub profile.
+Because GitHub is ubiquitous to the software developer community, it makes sense to introduce yourself on the platform. The best way to do this is by creating a GitHub profile. Once you create a GitHub profile, it's accessible to everyone. 
 
 <img align="right" style="padding: 10px" src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/GitHub_assets/profile_full.png" alt="New Repository" width="300">
 
-Your GitHub profile contains a bio, a showcase of your favorite projects, a heatmap of your contribution activity, and a record of your most recent updates. You can also include external links to your portfolio site or social media. 
-
-Once you create a GitHub profile, it's accessible to everyone. 
+Your GitHub profile contains a bio, a showcase of your favorite projects, a heatmap of your contribution activity, and a record of your most recent updates on the platform. You can also include external links to your portfolio site or social media. 
 
 A GitHub portfolio is a dynamic portfolio. It's not just a collection of standalone documents. Instead, it shows how you're actively engaging in the community. It's an opportunity to share what projects you've accomplished and what you'd like to work on next.
 

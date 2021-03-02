@@ -29,10 +29,10 @@ To share a game screen, select the Main scene and click Change Capture.
 <img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/UI_scenes.PNG" alt="Scenes sidebar" width="350">
 </p>
 
-> Note: To add screen capture to a scene, it must have a Screen Share layer. 
+> Note: To add screen capture to a particular scene, the scene must have a Screen Share layer. 
 
 ## Stats Panel
-Notice the stats panel at the top of the screen. These metrics will help you monitor your stream quality in real time. Check your frame rate, upload speed, and % demand on your CPU. You can also see how many viewers are tuning in to your stream and the duration of your streaming session. Click the padlock icon to remove stats from the panel or drag and drop them in any order. 
+Notice the stats panel at the top of the screen. These metrics will help you monitor your stream quality in real time. Check your frame rate, upload speed, and % demand on your CPU. You can also see how many viewers are tuning in to your stream and the duration of your current streaming session. Click the padlock icon to remove stats from the panel or drag and drop them in any order. 
 
 <!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/stats.png" alt="Stats panel" width="800">
@@ -52,7 +52,7 @@ Click the Stars button to open the Twitch Studio news feed, where relevant artic
 <img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/UI_news.PNG" alt="Newsfeed" width="500">
 </p>
 
-Click your avatar to interact with your Twitch account. You can open your Twitch dashboard, which you'll notice looks quite similar to the Twitch Studio interface. If you prefer sharing recorded content to live streaming, click Video Producer. Here, you can upload videos to your Twitch channel.
+Click your avatar to interact with your Twitch account. You can open your Twitch dashboard, which you'll notice looks and behaves quite similar to the Twitch Studio interface. If you prefer sharing recorded content to live streaming, click Video Producer. Here, you can upload videos recorded on Twitch Studio to your Twitch channel.
 
 <!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/UI_avatar_menu.png" alt="Avatar menu" width="200">
@@ -83,7 +83,7 @@ Click the 3 dots icon to toggle feed notifications and alerts on or off.
 <img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/UI_activity_feed.PNG" alt="Activity Feed" width="300">
 </p>
 
-> Note: To share alerts on a scene, it must have a Twitch Alerts layer.
+> Note: To share alerts on a particular scene, the scene must have a Twitch Alerts layer.
 
 ## Chat
 Interact with your audience! In the chat window, you have the ability to read and send messages to your viewers in real time. Click the cogwheel to open chat settings and enable moderation actions-- like emotes-only chat 😮😮😮 or followers-only chat.
@@ -106,7 +106,7 @@ Before you start streaming, check out your scenes and customizations in the Stre
 </p>
 
 ## Stream info
-Click the pencil icon to add or edit the title, category, and tags for your stream. 
+Click the pencil icon to add or edit the title, category, and tags for your current stream. 
 
 <!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/UI_stream_info.png" alt="Stream Info" width="600">
@@ -117,7 +117,7 @@ Click the pencil icon to add or edit the title, category, and tags for your stre
 
 
 ## Audio/Video Controls
-Toggle your webcam on and off with a single click. Use the slider tool to adjust the volume on each audio device. You can also click the mic or speaker icon to mute the device.
+Toggle your webcam on and off with a single click. Use the slider tool to adjust the volume on each audio device. You can also click the mic or speaker icon to mute either device.
 
 <!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/UI_audio.png" alt="Audio/Video Buttons" width="600">
