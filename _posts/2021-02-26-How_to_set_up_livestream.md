@@ -50,7 +50,7 @@ Give your stream a title, category, and one or more tags. You can also specify t
 <img src="../assets/Twitch_Studio_assets/stream_info.png" alt="Twitch Studio stream info dialog" width="300">
 </p> -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/stream%20info.png" alt="Twitch Studio stream info dialog" width="300">
+<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/stream_info.PNG" alt="Twitch Studio stream info dialog" width="300">
 </p>
 
 Click **Done**.
