@@ -38,9 +38,9 @@ The first time you launch the app, you'll be prompted to set up your microphone,
 <!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/setup.png" alt="Get started" width="450">
 </p> -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/setup.PNG" alt="Get started" width="450">
-</p>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/setup.PNG" alt="Get started" width="450">
+  </p>
 
 2. Set up microphone
 
