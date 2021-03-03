@@ -6,11 +6,11 @@ permalink: /about/
 
 # Hi, I'm Rebecca. 👋
 
-### I'm a mechanical engineer looking to break into the field of technical writing!
+### I'm a mechanical engineer pursuing a career switch to technical writing!
 
 My goal is to learn new technologies and share with others through approachable and effective documentation.
 
-I'm currently working on building my tech writing portfolio. If you need someone to write documentation for your project, contact me!
+Please enjoy a few of my writing samples. Feel free to contact me if you have any questions or feedback!
 
 ✉️ rem4@umbc.edu
 
