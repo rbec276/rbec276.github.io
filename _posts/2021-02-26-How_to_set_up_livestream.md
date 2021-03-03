@@ -108,14 +108,5 @@ You're ready to go live! Click **Start stream**. Monitor and manage your stream 
 <img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/Twitch_Studio_assets/start_stream.PNG" alt="Twitch Studio start stream" width="600">
 </p>
 
-<!-- If you want to learn more about Twitch Studio, see our How-Tos:
--Customizing Scenes
-
-And our Reference docs:
--Stats panel
--Notifications and alerts
-
-For further discussion:
--Twitch Studio vs. OBS or XSplit
--Capture cards  -->
+If you want to learn more, see the [Twitch Studio user interface](/jekyll/twitchstudio/2021/02/27/Reference.html) reference guide.
 

@@ -6,7 +6,7 @@ permalink: /about/
 
 # Hi, I'm Rebecca. 👋
 
-### I'm a mechanical engineer pursuing a career switch to technical writing!
+### I'm a mechanical engineer pursuing a new career in technical writing!
 
 My goal is to learn new technologies and share with others through approachable and effective documentation.
 

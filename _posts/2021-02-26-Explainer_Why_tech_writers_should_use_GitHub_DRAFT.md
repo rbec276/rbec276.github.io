@@ -61,3 +61,5 @@ Processes
 - Whether you use the GitHub desktop application or git commands in the command line, you'll follow the same developer workflows. For instance,  when you want to propose changes on someone else's project, you can submit a pull request. GitHub describes this common developer workflow [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
 
 As you can see, there are many benefits to hosting your technical writing portfolio on GitHub. By creating a GitHub profile, you can establish a presence in the developer community, find and contribute to open source projects, and follow common developer workflows. If you're an aspiring technical writer, consider using GitHub to host your portfolio and continuously share, learn, and interact with the developer community. 
+
+Now that you know the benefits of GitHub, read the tutorial to [Create your GitHub profile](/jekyll/github/2021/02/27/Create-your-GitHub-Profile-README.html).
