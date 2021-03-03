@@ -82,7 +82,7 @@ The first time you launch the app, you'll be prompted to set up your microphone,
 
 5. Lastly, let's test your stream quality. (This might take a minute). Your stream settings will be optimized based on your current setup. You shouldn't have to tweak any settings. Click **Continue to App**. 
 
-    > #### Note: Streaming can be demanding on your PC. If either the bandwidth test or the hardware check are "Poor", you can still continue to the app. Just know that your stream may look choppy.
+    >Note: Streaming can be demanding on your PC. If either the bandwidth test or the hardware check are "Poor", you can still continue to the app. Just know that your stream may look choppy.
 
     <!-- <p align="center">
     <img src="../assets/Twitch_Studio_assets/stream_quality_settings.png" alt="Stream quality settings" width="300">

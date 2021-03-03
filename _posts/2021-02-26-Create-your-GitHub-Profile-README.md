@@ -52,7 +52,7 @@ This tutorial describes how to create a README&#46;md for your GitHub profile us
     <img src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/GitHub_assets/edit_readme_content.PNG" alt="Edit README.md content" width="600">
     </p>
 
-    > Note: Text enclosed by \<!-- and --> is called a comment. Comments are notes to provide context to people reading your code and they won't show up in the rendered output. If you use the GitHub template, make sure you delete the comment syntax; that is, the \<!-- and -->.
+    >Note: Text enclosed by \<!-- and --> is called a comment. Comments are notes to provide context to people reading your code and they won't show up in the rendered output. If you use the GitHub template, make sure you delete the comment syntax; that is, the \<!-- and -->.
 
 7. Click the **Preview Changes** tab to see the rendered version of your .md file. 
 
@@ -65,7 +65,7 @@ This tutorial describes how to create a README&#46;md for your GitHub profile us
 
 8. Scroll down to add a commit message and description. 
 
-    > Note: Get in the habit of writing clear and concise commit messages--this makes your file history easier to follow. Your future self (and collaborators) will thank you!
+    >Note: Get in the habit of writing clear and concise commit messages--this makes your file history easier to follow. Your future self (and collaborators) will thank you!
 
 9. **Commit changes** directly to the main branch.
 

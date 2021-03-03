@@ -44,7 +44,7 @@ Click on a scene to view it in the Stream Preview window. Ensure alerts, media, 
 Give your stream a title, category, and one or more tags. You can also specify the stream language. 
 
 <!-- Add more details to make your content searchable.  -->
->#### Note: Complete and accurate stream info helps make your content discoverable.
+>Note: Complete and accurate stream info helps make your content discoverable.
 
 <!-- <p align="center">
 <img src="../assets/Twitch_Studio_assets/stream_info.png" alt="Twitch Studio stream info dialog" width="300">
@@ -94,7 +94,7 @@ When you're done making changes, click **Save** to return home.
 
 <!-- Continue customizing scenes until you're happy with how everything looks. -->
 
->#### Note: What you see in the Stream Preview window is exactly what your viewers see when you go live. Take a minute to review your scenes and make sure everything looks good.
+>Note: What you see in the Stream Preview window is exactly what your viewers see when you go live. Take a minute to review your scenes and make sure everything looks good.
 
 <!-- Your stream will look to viewers exactly as it appears in the Stream Preview window. Take a minute to click through your scenes and make sure everything looks the way you want it to look. -->
 
