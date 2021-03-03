@@ -40,11 +40,11 @@ Unlike a traditional portfolio, your GitHub profile is more than a collection of
 
 Once you've increased your visibility by creating a profile, you can start extending your reach. After all, GitHub is a community of open source projects. If you want to grow your portfolio or gain experience, it's easy to find new projects using the [advanced search page](https://github.com/search/advanced). Simply add search tags to filter results to your particular skillset. For instance, to find API documentation projects, execute a search for API documentation with the label 'help wanted'. 
 
-<img align="center" src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/GitHub_assets/search_tags.PNG" alt="Search tag" width="400">
+<img align="center" src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/GitHub_assets/search_tags.PNG" alt="Search tag" width="500">
 
 You can also search for opportunities to challenge yourself in something new. For example, if you want to get comfortable working with a new programming language like Python, you could filter search results by language.
 
-<img align="center" src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/GitHub_assets/search_results.PNG" alt="Search results" width="400">
+<img align="center" src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/GitHub_assets/search_results.PNG" alt="Search results" width="500">
 
 ## Demonstrate the "Docs as Code" workflow
 
@@ -52,11 +52,11 @@ The Docs as Code workflow is a philosophy that says technical writers should tre
 
 In GitHub, you can practice using developer tools and processes. An example of each is outlined below.
 
-1) Tools - Lightweight markup languages such as Markdown
+1) Tools
 
     Markdown is a human-readable markup language commonly used for developer documentation. It also integrates with GitHub really well. Not only can you publish Markdown source files to your repository, you can also host them on a website using GitHub pages. Demonstrate your use of syntax and versatility with Markdown source files that can be rendered on any static site. 
 
-2) Processes - Submit a pull request
+2) Processes
 
     Whether you use the GitHub desktop application or git commands in the command line, you'll follow the same developer workflows. For instance,  when you want to propose changes on someone else's project, you can submit a pull request. GitHub describes this common developer workflow [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
 
