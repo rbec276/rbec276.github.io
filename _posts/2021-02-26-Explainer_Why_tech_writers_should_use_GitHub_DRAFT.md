@@ -38,13 +38,13 @@ Unlike a traditional portfolio, your GitHub profile is more than a collection of
 
 ## Find and collaborate on open source projects
 
-Once you've increased your visibility by creating a profile, you can start extending your reach. After all, GitHub is a community of open source projects. If you want to grow your portfolio or gain experience, it's easy to find new projects to work on. Simply use search tags to filter results to your particular skillset. For instance, to find API documentation projects, execute a search for API documentation with the label 'help wanted'. 
+Once you've increased your visibility by creating a profile, you can start extending your reach. After all, GitHub is a community of open source projects. If you want to grow your portfolio or gain experience, it's easy to find new projects using the [advanced search page](https://github.com/search/advanced). Simply add search tags to filter results to your particular skillset. For instance, to find API documentation projects, execute a search for API documentation with the label 'help wanted'. 
 
-<img align="center" src="" alt="Search tag" width="400">
+<img align="center" src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/GitHub_assets/search_tags.PNG" alt="Search tag" width="400">
 
 You can also search for opportunities to challenge yourself in something new. For example, if you want to get comfortable working with a new programming language like Python, you could filter search results by language.
 
-<img align="center" src="" alt="Search results" width="400">
+<img align="center" src="https://raw.githubusercontent.com/rbec276/rbec276.github.io/master/assets/GitHub_assets/search_results.PNG" alt="Search results" width="400">
 
 ## Demonstrate the "Docs as Code" workflow
 
