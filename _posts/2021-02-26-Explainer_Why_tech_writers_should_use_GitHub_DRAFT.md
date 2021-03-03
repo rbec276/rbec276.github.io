@@ -52,12 +52,12 @@ The Docs as Code workflow is a philosophy that says technical writers should tre
 
 In GitHub, you can practice using developer tools and processes. An example of each is outlined below.
 
-1) Tools
+Tools
 
-    Markdown is a human-readable markup language commonly used for developer documentation. It also integrates with GitHub really well. Not only can you publish Markdown source files to your repository, you can also host them on a website using GitHub pages. Demonstrate your use of syntax and versatility with Markdown source files that can be rendered on any static site. 
+- Markdown is a human-readable markup language commonly used for developer documentation. It also integrates with GitHub really well. Not only can you publish Markdown source files to your repository, you can also host them on a website using GitHub pages. Demonstrate your use of syntax and versatility with Markdown source files that can be rendered on any static site. 
 
-2) Processes
+Processes
 
-    Whether you use the GitHub desktop application or git commands in the command line, you'll follow the same developer workflows. For instance,  when you want to propose changes on someone else's project, you can submit a pull request. GitHub describes this common developer workflow [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
+- Whether you use the GitHub desktop application or git commands in the command line, you'll follow the same developer workflows. For instance,  when you want to propose changes on someone else's project, you can submit a pull request. GitHub describes this common developer workflow [here](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork).
 
 As you can see, there are many benefits to hosting your technical writing portfolio on GitHub. By creating a GitHub profile, you can establish a presence in the developer community, find and contribute to open source projects, and follow common developer workflows. If you're an aspiring technical writer, consider using GitHub to host your portfolio and continuously share, learn, and interact with the developer community. 
