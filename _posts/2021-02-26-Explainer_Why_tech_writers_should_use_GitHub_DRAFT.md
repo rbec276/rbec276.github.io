@@ -7,8 +7,6 @@ categories: jekyll GitHub
 
 <!-- # Why should technical writers use GitHub to host their portfolio? -->
 
-# Why should technical writers host their portfolio on GitHub?
-
 If you want to start a career in technical writing, you'll need to develop a portfolio of writing samples. 
 
 One of the most effective platforms for sharing your technical writing portfolio is GitHub. In this article, we'll discuss why techical writers
@@ -19,8 +17,7 @@ should create and host their portfolio on GitHub.
 ## What is GitHub?
 If you're not familiar with GitHub, it's a version control platform used primarily by the software developer community. 
 GitHub users create a repository to store project files in a central location. By single sourcing content, multiple 
-people can pull or push updates to a project and merge their contributions seamlessly. When building a new software 
-with complex architecture and multiple features, this ability to manage and collaborate on each iteration of a project is invaluable.
+people can pull or push updates to a project and merge their contributions seamlessly. 
 
 If you'd like to learn more about GitHub, check out their free [introductory course](https://lab.github.com/githubtraining/introduction-to-github).
 
